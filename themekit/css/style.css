@@ -247,7 +247,7 @@ COLOR 3
 .btn-border:hover, .icon-links a:hover i, .icon-links-popup:hover > i, .breadcrumb li:not(:last-child):hover a, .pagination li:not(.page):hover a, .search-bar input[type=submit]:hover,
 .accordion-list > li:hover > a, .btn-text:hover, .menu-inner li:hover > a, .menu-inner li.active > a, .menu-inner .dropdown ul > li:hover > a, .album-title > a:hover, .glide__arrow:hover,
 .mega-menu .icon-list li a:hover, nav.active .menu-btn, .menu-transparent .menu-cnt > ul > li:hover > a, .list-nav a:hover {
-    color: #3081c8;
+    color: #deecf9;
 }
 
 .light .dropdown > ul > li:not(:hover) > a {
